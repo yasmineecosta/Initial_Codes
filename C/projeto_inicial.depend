@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656425664 source:c:\users\yasmi\onedrive\Área de trabalho\projetos lógica de prog\linguagem c\projeto_inicial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656427920 source:c:\users\yasmi\onedrive\Área de trabalho\projetos lógica de prog\linguagem c\projeto_inicial\cinema.c
+	<stdio.h>
+	<stdlib.h>
+
